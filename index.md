@@ -8,7 +8,7 @@ permalink: /
 
 # Score documentation
 
-This is the documentation for *SEGMent*
+Wiki de l'éditeur de jeu *SEGMent*
 
-Disclaimer: documentation is currently worked on and as such is incomplete.
+Attention: Cette documentation est en cours de création et n'est donc pas complète en l'état.
 {: .text-red-300}

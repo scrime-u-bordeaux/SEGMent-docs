@@ -5,11 +5,8 @@ title: "FAQ"
 nav_order: 99
 has_children: true
 
-permalink: /docs/faq.html
+permalink: /faq.html
 category: "site-score"
 
-description: "A collection of (non necessarily) frequently asked questions"
-
-tag: "Presentation"
-visible: true
+description: "Une liste de réponse à des questions souvent posées"
 ---
