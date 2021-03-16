@@ -10,3 +10,5 @@ category: "site-score"
 
 description: "Une liste de réponse à des questions souvent posées"
 ---
+
+# Foire aux question
