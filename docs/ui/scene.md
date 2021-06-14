@@ -6,7 +6,7 @@ nav_order: 4
 has_children: false
 has_toc: false
 
-permalink: /ui/index.html
+permalink: /ui/canvas.html
 
 description: "Pour découvrir l'interface de SEGMent"
 
