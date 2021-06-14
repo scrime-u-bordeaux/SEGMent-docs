@@ -47,7 +47,7 @@ via le menu ``Fichier > Sauver sous``.
 
 Sous Windows, cela devrait ressembler à la configuration suivante :
 
-![Alt text](../../assets/images/premier_pas/tutorial/save.png "Sauvegarde")
+![Alt text](/assets/images/premier_pas/tutorial/save.png "Sauvegarde")
 
 ## Création de scènes
 
