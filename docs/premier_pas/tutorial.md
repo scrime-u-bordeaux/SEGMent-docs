@@ -22,7 +22,7 @@ Le principe de fonctionnement est le suivant:
 
 L'éditeur est organisé en trois parties: bibliothèque, canvas, inspecteur :
 
-![Alt text](../../assets/images/premier_pas/tutorial/main.png "Collage d'un son")
+![Alt text]({{ site.img }}/premier_pas/tutorial/main.png "Collage d'un son")
 
 La Bibliothèque est la partie de gauche et permet d'ajouter des éléments
 à un jeu : scènes, objets, sons, etc.
