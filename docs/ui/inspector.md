@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Inspecteur
-parent : Interface
+parent : L'interface utilisateur
 nav_order: 4
-has_children: true
+has_children: false
 has_toc: false
 
 permalink: /ui/index.html
