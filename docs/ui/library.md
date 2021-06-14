@@ -1,3 +1,17 @@
+---
+layout: default
+title: Bibliothèque
+parent : Interface
+nav_order: 4
+has_children: true
+has_toc: false
+
+permalink: /ui/index.html
+
+description: "Pour découvrir l'interface de SEGMent"
+
+---
+
 # Bibliothèque
 
 La bibliothèque contient un ensemble d’éléments pouvant être

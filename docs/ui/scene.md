@@ -1,5 +1,18 @@
-# Canvas
+---
+layout: default
+title: Scene
+parent : Interface
+nav_order: 4
+has_children: true
+has_toc: false
 
+permalink: /ui/index.html
+
+description: "Pour découvrir l'interface de SEGMent"
+
+---
+
+# Canvas
 
 Le canvas est l'élément central de l'éditeur SEGMent: c'est la partie
 ou les scènes du jeu sont disposées et reliées entre elles.

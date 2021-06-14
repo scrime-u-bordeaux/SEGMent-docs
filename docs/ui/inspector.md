@@ -1,5 +1,16 @@
-.. index:: Inspecteur
+---
+layout: default
+title: Inspecteur
+parent : Interface
+nav_order: 4
+has_children: true
+has_toc: false
 
+permalink: /ui/index.html
+
+description: "Pour découvrir l'interface de SEGMent"
+
+---
 # Inspecteur d’objets
 
 
