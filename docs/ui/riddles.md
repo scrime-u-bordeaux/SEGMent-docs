@@ -33,8 +33,7 @@ Il y a deux possibilités :
 
 L'inspecteur de cette énigme propose plusieurs fonctionnalités :
 
-.. figure:: textriddle.png
-   :alt: textriddle
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/riddles/textriddle.png "textriddle")
 
 - Question: la question posée au joueur, affichée dans le champ de texte
 - Réponses attendues: les réponses valables. Plusieurs réponses sont possibles, il faut sauter une ligne pour chaque réponse.
@@ -49,8 +48,7 @@ Le jeu mélange les pièces automatiquement.
 
 Les pièces de puzzle sont celles marquées ainsi dans l'inspecteur :
 
-.. figure:: puzzle.png
-   :alt: puzzle
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/riddles/puzzle.png "puzzle")
 
 Toute image peut faire partie d'un puzzle. Une icône de pièce de puzzle s'affichera dans le coin supérieur
 droit des pièces de puzzle d'une scène.
@@ -61,5 +59,4 @@ Pour ce type d'énigme, le joueur doit mettre toutes les gifs de la scène d'ori
 sur une position dite "victorieuse" en cliquant dessus.
 Ces positions se configurent dans l'inspecteur.
 
-.. figure:: gifs.png
-   :alt: gifs
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/riddles/gifs.png "gifs")

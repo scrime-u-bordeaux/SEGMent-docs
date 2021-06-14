@@ -27,8 +27,7 @@ Les objets sont les fichiers présents dans le dossier
 ``Ressources/Objects``. Ce sont les images qui peuvent être placées sur
 une scène.
 
-.. figure:: objets.png
-   :alt: obj
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/library/ojets.png "obj")
 
 Si un objet possède l’icone de caméra |camera|, dans le coin supérieur
 gauche, c’est qu’il s’agit d’une GIF (image animée).
@@ -38,8 +37,7 @@ gauche, c’est qu’il s’agit d’une GIF (image animée).
 Les scènes sont les éléments principaux d’un jeu. Les objets sont les
 fichiers présents dans le dossier ``Ressources/Scenes``.
 
-.. figure:: scene.png
-   :alt: scene
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/library/scene.png "scene")
 
 Elles ne peuvent être déposées que sur le canvas central.
 
@@ -58,13 +56,11 @@ Les objets sont les fichiers présents dans le dossier
 ``Ressources/Sounds``. Ils peuvent être glissé-déposé sur de nombreux
 éléments d'un canvas SEGMent : scènes, images, transitions...
 
-.. figure:: images/paste-sound-scene.png
-   :alt: Collage d'un son
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/library/paste-sound-scene.png "Collage d'un son")
 
 Ils peuvent aussi être glissé-déposé sur l'inspecteur d'un objet :
 
-.. figure:: images/paste-sound.png
-   :alt: Collage d'un son
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/library/paste-sound.png "Collage d'un son")
 
 Il est possible d'écouter un son dans la bibliothèque en double-cliquant dessus.
 
@@ -73,8 +69,7 @@ Il est possible d'écouter un son dans la bibliothèque en double-cliquant dessu
 Ces zones ne sont pas des images, elles possèdent un comportement
 spécifique dans le jeu.
 
-.. figure:: images/clicinspector.png
-   :alt: obj
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/library/clicinspector.png "obj")
 
 ### Zone de clic
 
@@ -102,5 +97,4 @@ Pour activer une énigme, il faut réaliser un glisser-déposer de l'énigme ver
 la transition.
 L'énigme peut ensuite être configurée depuis l'inspecteur de la transition.
 
-
-.. |camera| image:: camera.png
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/library/camera.png "camera")

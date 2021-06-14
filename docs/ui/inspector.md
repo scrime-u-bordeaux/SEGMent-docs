@@ -20,8 +20,7 @@ L’inspecteur permet de modifier les propriétés d’un élément du jeu.
 
 Cet inspecteur est associé aux images simples.
 
-.. figure:: images/inspecteur/image.png
-   :alt: inspecteur
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/inspecteur/image.png "Inspecteur")
 
 ## Inspecteur de gif
 
@@ -33,8 +32,7 @@ Le sélecteur pour chaque image permet de choisir les trois cas suivants :
 - Passée: l'image est passée, elle ne sert que de frame intermédiaire d'animation.
 - Victorieuse: cette frame est une condition de victoire pour l'énigme de cette scène.
 
-.. figure:: images/inspecteur/gif.png
-   :alt: inspecteur
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/inspecteur/gif.png "Inspecteur")
 
 ## Inspecteur de zone de texte
 
@@ -50,8 +48,7 @@ Une scène peut être de plusieurs types :
 - Défaut : les scènes normales.
 - Game over : en cas de défaite du joueur.
 
-.. figure:: images/inspecteur/scene.png
-   :alt: inspecteur
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/inspecteur/scene.png "Inspecteur")
 
 ## Inspecteur de transition
 
@@ -60,8 +57,7 @@ Les transitions ont différents inspecteurs selon les situations:
 
 ### Transition d’un objet vers une scène
 
-.. figure:: images/inspecteur/transition-simple.png
-   :alt: inspecteur
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/inspecteur/transition-simple.png "Inspecteur")
 
 
 ### Transition d’une scène vers une scène
@@ -75,5 +71,4 @@ Plusieurs types d'éngimes peuvent être choisis :
 - Énigme sur gif: le joueur doit mettre toutes les gif de la scène de départ
 en position victorieuse.
 
-.. figure:: images/inspecteur/transition-complexe.png
-   :alt: inspecteur
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/inspecteur/transition-complexe.png "Inspecteur")

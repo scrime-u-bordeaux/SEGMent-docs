@@ -23,16 +23,14 @@ Plusieurs interactions sont possibles dans le canvas.
 
 Cela se fait via glisser-déposer depuis l'inspecteur.
 
-.. figure:: images/scene-drop.png
-   :alt: Scene drop
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/scene/scene-drop.png "Scene drop")
 
 ## Se déplacer dans le canvas
 
 Deux possibilités : en déplaçant le fond avec la souris, ou bien avec
 les barres de défilement à droite et en bas du canvas.
 
-.. figure:: images/scene-drag.png
-   :alt: Scene drag
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/scene/scene-drag.png "Scene drag")
 
 ## Changer le niveau de zoom
 
@@ -43,28 +41,24 @@ ou bien Cmd (touche pomme) + mouvement du trackpad selon le matériel utilisé.
 
 Pour les scènes, cela se fait en déplaçant leur barre de titre.
 
-.. figure:: images/scene-drag-scene.png
-   :alt: Scene drag
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/scene/scene-drag-scence.png "Scene drag")
 
 Pour tous les autres objets, ils peuvent être déplacés simplement en les bougeant
 avec la souris :
 
-.. figure:: images/object-drag.png
-   :alt: Object drag
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/scene/object-drag.png "Object drag")
 
 ## Créer des objets
 
 Cela se fait via glisser-déposer depuis l'inspecteur vers une scène.
 
-.. figure:: images/create-object.png
-   :alt: Scene drag
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/scene/create-object.png "Scene drag")
 
 ## Copier des scènes et des objets
 
 Cela se fait via les raccourcis standards : Ctrl-C / Ctrl-V ou Cmd-C / Cmd-V sur Mac.
 
-.. figure:: images/copy.png
-   :alt: Scene copy
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/scene/copy.png "Scene copy")
 
 
 ## Redimensionner des scènes et des objets
@@ -72,22 +66,19 @@ Cela se fait via les raccourcis standards : Ctrl-C / Ctrl-V ou Cmd-C / Cmd-V sur
 Cela se fait en glissant-déplaçant la poignée grise située en bas à droite
 des objets: scènes, images, etc.
 
-.. figure:: images/object-resize.png
-   :alt: Object drag
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/scene/object-resize.png "Object drag")
 
 ## Créer des transitions
 
 Cela se fait en sélectionnant une ancre autour d'un objet, puis en
 effectuant un glisser-déposer vers une ancre d'une autre scène.
 
-.. figure:: images/create-scene-transition.png
-   :alt: Scene drag
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/scene/create-scene-transition.png "Scene drag")
 
 Il est possible de créer des transitions depuis certains objets vers des
 scènes.
 
-.. figure:: images/create-object-transition.png
-   :alt: Scene drag
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/ui/scene/create-object-transition.png "Object drag")
 
 Les transitions de scène à scène sont affichées en orange, tandis que
 les transitions de scène à objet sont affichées en bleu.
