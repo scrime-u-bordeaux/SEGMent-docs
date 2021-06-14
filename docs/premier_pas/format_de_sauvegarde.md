@@ -18,7 +18,6 @@ Le format de sauvegarde, en JSON, possède la structure générale
 suivante:
 
 ```js
-
    {
        "Document": {
            "Process": {
@@ -39,7 +38,6 @@ Les deux objets principaux sont les scènes et les transitions.
 Une scène possède le format suivant:
 
 ```js
-
    {
      // Identifant unique de la scène (pour transitions)
      "Path": "/SEGMentDocument.1/SEGMentProcess.0/Scene.1",
@@ -92,7 +90,6 @@ Une scène possède le format suivant:
 
 
 ```js
-
    {
      // Identifiant unique de l'objet (pour transitions)
      "Path": "/SEGMentDocument.1/SEGMentProcess.0/Scene.1/SimpleObject.0",
@@ -118,7 +115,6 @@ Une scène possède le format suivant:
 Comme pour les images simples, avec les champs additionnels suivants :
 
 ```js
-
    // Frame par défaut de la gif
    "Default": 0,
 
@@ -139,7 +135,6 @@ Comme pour les images simples, avec les champs additionnels suivants :
 ### Zones de clic simple
 
 ```js
-
    {
        "Path": "/SEGMentDocument.1/SEGMentProcess.0/Scene.1/ClickArea.0",
        "Pos": [ 0.20, 0.22 ],
@@ -163,7 +158,6 @@ Comme pour les zones de clic simple, avec les champs additionnels
 suivants :
 
 ```js
-
    "Text": "Texte associé"
 
    // Behaviour : comportement de la zone de texte.
@@ -177,7 +171,6 @@ suivants :
 ### Transitions
 
 ```js
-
    {
      // Type de fade
      // 0: Immédiat
@@ -214,7 +207,6 @@ suivants :
 ```
 
 ```js
-
    {
      // Cas plus compliqué avec une énigme: scène vers scène
      "Transition": {
@@ -236,14 +228,12 @@ L’objet ``Riddle`` peut être de la forme suivante :
 -  Pas d’énigme:
 
 ```js
-
    "Riddle": {
    }
 ```
 -  Énigme sur texte:
 
 ```js
-
    "Riddle": {
      "Text": {
        // Texte attendu pour réussir
@@ -260,7 +250,6 @@ L’objet ``Riddle`` peut être de la forme suivante :
 -  Énigme sur gif:
 
 ```js
-
    "Riddle": {
      "Gif": { }
    }
@@ -268,7 +257,6 @@ L’objet ``Riddle`` peut être de la forme suivante :
 -  Énigme sur puzzle:
 
 ```js
-
    "Riddle": {
      "Puzzle": { }
    }
