@@ -22,7 +22,7 @@ Le principe de fonctionnement est le suivant:
 
 L'éditeur est organisé en trois parties: bibliothèque, canvas, inspecteur :
 
-![Alt text]({{ site.img }}/assets/premier_pas/tutorial/main.png "Collage d'un son")
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/premier_pas/tutorial/main.png "Collage d'un son")
 
 La Bibliothèque est la partie de gauche et permet d'ajouter des éléments
 à un jeu : scènes, objets, sons, etc.
@@ -47,7 +47,7 @@ via le menu ``Fichier > Sauver sous``.
 
 Sous Windows, cela devrait ressembler à la configuration suivante :
 
-![Alt text](/assets/images/premier_pas/tutorial/save.png "Sauvegarde")
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/premier_pas/tutorial/save.png "Sauvegarde")
 
 ## Création de scènes
 
@@ -61,7 +61,7 @@ auquel se trouve le joueur. En cliquant sur des objets et en résolvant des
 Ajouter une scène se fait par glisser-déposer depuis la bibliothèque sur le canvas.
 Ajoutons une première scène :
 
-![Alt text](../../assets/images/premier_pas/tutorial/scene1.png "Scene 1")
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/premier_pas/tutorial/scene1.png "Scene 1")
 
 
 Lorsqu'elle est sélectionnée, la scène peut être redimensionnée avec la poignée
@@ -72,12 +72,12 @@ Enfin, l'inspecteur affiche les propriétés de la scène, détaillées dans la 
 En particulier, cette scène va être fixée en tant que scène de type "initial" :
 c'est là que le joueur va débuter.
 
-![Alt text](../../assets/images/premier_pas/tutorial/insp1.png "Scene 1")
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/premier_pas/tutorial/insp1.png "Scene 1")
 
 
 Rajoutons une seconde scène :
 
-![Alt text](../../assets/images/premier_pas/tutorial/scene2.png "Scene 2")
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/premier_pas/tutorial/scene2.png "Scene 2")
 
 
 ## Création d'objets
@@ -86,7 +86,7 @@ Pour l'instant, cette scène n'est pas atteignable par le joueur.
 Pour lui permettre de s'y rendre, nous allons rajouter une zone de clic dans la première scène.
 Cela se fait via glisser-déposer depuis l'inspecteur :
 
-![Alt text](../../assets/images/premier_pas/tutorial/clic.png "Clic")
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/premier_pas/tutorial/clic.png "Clic")
 
 
 ### Création de transitions
@@ -95,7 +95,7 @@ Enfin, nous allons créer une transition depuis la zone de clic vers la seconde 
 il faut pour cela cliquer sur une des ancres (les points oranges) située autour de la zone
 de clic, puis glisser la souris jusqu'à une ancre de la seconde scène :
 
-![Alt text](../../assets/images/premier_pas/tutorial/arrow.png "Clic")
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/premier_pas/tutorial/arrow.png "Clic")
 
 La transition peut aussi être sélectionnée et configurée via l'inspecteur.
 
@@ -103,7 +103,7 @@ Pour pouvoir revenir en arrière depuis la seconde scène, on ajoute une zone
 de retour en arrière de la même manière : elle s'affichera en vert dans l'éditeur,
 et sous forme de flèche dans le jeu
 
-![Alt text](../../assets/images/premier_pas/tutorial/arriere.png "Clic")
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/premier_pas/tutorial/arriere.png "Clic")
 
 
 ### Création d'énigmes
@@ -113,7 +113,7 @@ cette énigme va prendre la forme d'un code à taper sur la seconde scène.
 
 Pour ce faire, on va rajouter des zones de texte sur chacunes des touches de la scène :
 
-![Alt text](../../assets/images/premier_pas/tutorial/text.png "Text")
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/premier_pas/tutorial/text.png "Text")
 
 Chaque zone de texte peut être configurée avec une lettre en double-cliquant dessus ou via l'inspecteur.
 La touche "entrée" peut être configurée avec le comportement "Valider": c'est elle qui déclenchera
@@ -122,12 +122,12 @@ l'évaluation de l'énigme.
 Rajoutons une troisème scène : on crée une transition de la scène du clavier,
 vers cette nouvelle scène :
 
-![Alt text](../../assets/images/premier_pas/tutorial/final.png "Final")
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/premier_pas/tutorial/final.png "Final")
 
 L'énigme précédemment créée peut se configurer sur la transition entre
 ces deux scènes, via l'inspecteur :
 
-![Alt text](../../assets/images/premier_pas/tutorial/transi-text.png "Transition2")
+![Alt text](https://scrime-u-bordeaux.github.io/SEGMent-docs/assets/images/premier_pas/tutorial/transi-text.png "Transition2")
 
 Enfin, cette nouvelle scène peut être configurée en type "Final" : le joueur
 verra s'afficher l'écran de victoire à son issue.
