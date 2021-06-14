@@ -3,7 +3,7 @@ layout: default
 title: Tutorial
 parent : Premier Pas
 nav_order: 3
-has_children: true
+has_children: false
 has_toc: false
 
 permalink: /premier-pas/tutorial.html
@@ -28,6 +28,7 @@ L'éditeur est organisé en trois parties: bibliothèque, canvas, inspecteur :
    :alt: Collage d'un son
 
 ![Alt text](../../assets/images/premier_pas/tutorial/main.png "Collage d'un son")
+![Collage d'un son]({{ main.img }}/premier_pas/tutorial/main.png "Collage d'un son")
 
 La Bibliothèque est la partie de gauche et permet d'ajouter des éléments
 à un jeu : scènes, objets, sons, etc.
